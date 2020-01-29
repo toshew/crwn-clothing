@@ -9,7 +9,7 @@ const config = {
   projectId: "crwn-db-8c0c3",
   storageBucket: "crwn-db-8c0c3.appspot.com",
   messagingSenderId: "652616152186",
-  appId: "1:652616152186:web:49d5ac3992adbeaef877c3"
+  appId: "1:652616152186:web:362e4f1469a9767ff877c3"
 };
 
 export const createUserProfileDocument = async (userAuth, additionalData) => {
